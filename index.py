@@ -1,7 +1,4 @@
-# from pydoc import ModuleScanner
-# print("hello")
-# print("2+2 = ",2+2)
-# print(ModuleScanner)
+
 ##odd/even
 # num = int(input("enter value: "))
 # if(num%2) == 0:
